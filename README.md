@@ -1,6 +1,7 @@
 # Collaborative code editor.
 
 # Steps to run:
+- First
 ```bash
 npm install
 ```
